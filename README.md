@@ -9,7 +9,7 @@ Important parts:
 * status code (right after the endpoint section) `503`
     
 
-Format is described in detail here [here](https://httpd.apache.org/docs/1.3/logs.html).
+Format is described in detail [here](https://httpd.apache.org/docs/1.3/logs.html).
 
     10.10.10.10 - - [22/Feb/2017:18:45:02 +0000] "GET /fedora.html?user=gheorghe HTTP/1.1" 401 533 "-" "python-requests/2.12.4"
     10.10.10.10 - - [22/Feb/2017:18:45:13 +0000] "GET /ubuntu.html HTTP/1.1" 200 1303 "-" "python-requests/2.12.4"
